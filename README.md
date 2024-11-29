@@ -15,7 +15,7 @@ Esta tarefa consiste em documentar o processo de instalação do programa [JFLAP
 #### 1. Observe que o ambiente runtime da linguagem Java é um requisito para o JFLAP, e seu processo de instalação deve ser documentado também.
 A documentação deve seguir um formato de tutorial, com descrição dos passos, e screenshots ilustrando o processo em seu computador.
 
-<img align="right" width="400" height="400" src="https://github.com/user-attachments/assets/35c1df2c-967d-4079-abed-2e8216589f1d">
+<img align="right" width="400" height="400" src="https://github.com/user-attachments/assets/c287555a-5aa5-4c15-b2bc-f02cba855c27">
 
 #### 2. Baixe o arquivo Gramatica.jff em seu computador, e abra-o com o JFLAP. Você deverá ver uma gramática como esta mostrada à direita.
 
