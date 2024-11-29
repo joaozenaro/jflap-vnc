@@ -82,3 +82,26 @@ Codespaces:
 ![{986B6713-6991-4E90-BF08-1FDF5C328C0B}](https://github.com/user-attachments/assets/abcb4e43-e638-49fb-9599-e27b82aaabea)
 
 O comando para iniciar o JFLAP é `java -jar JFLAP7.1.jar`.
+
+
+# Respostas
+
+2.1. Qual o alfabeto desta gramática?
+
+O alfabeto desta gramática é formado pelos símbolos que aparecem no lado direito. $\sum = {a,b,c}$
+
+2.2. Que tipos de palavras esta gramática reconhece? Como são chamadas palavras deste tipo?
+
+A gramática reconhece palavras chamadas **palíndromos**, que são cadeias formadas pelos símbolos $a$, $b$ e $c$ que podem ser lidas da mesma forma de frente para trás, como $aa$, $aba$ ou $abccba$.
+
+2.3. O que é o símbolo $\lambda$ nesta gramática? Explique por que ele é relevante.
+
+O símbolo $\lambda$ representa a palavra vazia. Ele é importante porque permite que a gramática termine a derivação e gere cadeias sem caracteres ou com simetria completa.
+
+3.2. O comando do linux `grep -E 'EXPRESSAO' ArquivoExemplo.txt` busca expressões regulares em um determinado arquivo. Escreva expressões regulares para encontrar somente os telefones e placas válidos no ArquivoExemplo.txt (uma expressão para telefones e outra para placas). A execução dos comandos sobre o arquivo de exemplo deverá retornar somente as expressões válidas.
+
+![{C09AD6B1-090F-46B8-B125-8BC3E5046F87}](https://github.com/user-attachments/assets/ea55ab4f-2843-448c-b438-b65e13fd9f9a)
+
+3.3. Responda: O que expressões regulares têm a ver com reconhecimento de linguagens regulares e autômatos finitos?
+
+Estão conectados porque expressões regulares descrevem padrões que podem ser reconhecidos por autômatos finitos. Ferramentas como grep usam esses conceitos para buscar padrões em textos.
