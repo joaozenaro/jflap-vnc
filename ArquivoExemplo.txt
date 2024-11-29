@@ -1,0 +1,11 @@
+Telefone válido:	(049) 5053-4563
+Telefone válido:	(021) 4961-8846
+Telefone INVÁLIDO:	(049) 93872-9172
+Telefone INVÁLIDO:	049 3783 2273
+Telefone INVÁLIDO:	(49) 2694-9929
+
+Placa válida:		ABC-1234
+Placa válida:		XYZ 4567
+Placa inválida:		def-8262
+Placa inválida:		ert 8847
+
