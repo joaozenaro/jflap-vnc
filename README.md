@@ -25,10 +25,15 @@ Vá ao menu "Input/Multiple brute force parse". No lado direito da tela, você p
 2.3. O que é o símbolo λ nesta gramática? Explique por que ele é relevante.
 
 3. Leia o material recomendado sobre expressões regulares.
+
 a) Bibliografia da disciplina.
+
 b) [Grep Linux manual page](https://man7.org/linux/man-pages/man1/grep.1.html)
+
 c) [http://www.cyberciti.biz/faq/grep-regular-expressions/](http://www.cyberciti.biz/faq/grep-regular-expressions/)
+
 d) [Wikipedia - Expressões Regulares](https://pt.wikipedia.org/wiki/Express%C3%A3o_regular)
+
 f) [Expressões Regulares por Aurelio Jargas](https://aurelio.net/regex/)
 
 3.1. Baixe o ArquivoExemplo.txt.
