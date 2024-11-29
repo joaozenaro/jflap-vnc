@@ -20,11 +20,16 @@ A documentação deve seguir um formato de tutorial, com descrição dos passos,
 #### 2. Baixe o arquivo Gramatica.jff em seu computador, e abra-o com o JFLAP. Você deverá ver uma gramática como esta mostrada à direita.
 
 Vá ao menu "Input/Multiple brute force parse". No lado direito da tela, você poderá inserir palavras para testar. Para rodar o teste, clique na aba "Run Inputs", na parte inferior direita da tela. Uma vez que você consiga rodar testes nesta gramática, responda às seguintes questões:
+
 2.1. Qual o alfabeto desta gramática?
+
 2.2. Que tipos de palavras esta gramática reconhece? Como são chamadas palavras deste tipo?
+
 2.3. O que é o símbolo λ nesta gramática? Explique por que ele é relevante.
 
-3. Leia o material recomendado sobre expressões regulares.
+
+
+#### 3. Leia o material recomendado sobre expressões regulares.
 
 a) Bibliografia da disciplina.
 
@@ -37,7 +42,9 @@ d) [Wikipedia - Expressões Regulares](https://pt.wikipedia.org/wiki/Express%C3%
 f) [Expressões Regulares por Aurelio Jargas](https://aurelio.net/regex/)
 
 3.1. Baixe o ArquivoExemplo.txt.
+
 3.2. O comando do linux `grep -E 'EXPRESSAO' ArquivoExemplo.txt` busca expressões regulares em um determinado arquivo. Escreva expressões regulares para encontrar somente os telefones e placas válidos no ArquivoExemplo.txt (uma expressão para telefones e outra para placas). A execução dos comandos sobre o arquivo de exemplo deverá retornar somente as expressões válidas.
+
 3.3 Responda: O que expressões regulares têm a ver com reconhecimento de linguagens regulares e autômatos finitos?
 
 </details>
