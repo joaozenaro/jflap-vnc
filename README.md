@@ -1,6 +1,6 @@
 # JFLAP - Linguagens e Métodos Formais
 
-![{7C180369-7BC2-4A09-A5FD-20920ED19533}](https://github.com/user-attachments/assets/0611cfa6-ff7e-4f56-89c1-4766e9722d14)
+![{13FEA662-4A63-498D-97BF-8684319D4BCF}](https://github.com/user-attachments/assets/80421f32-c20a-4264-ba69-584219af2fd0)
 
 [https://github.com/joaozenaro/jflap-vnc](https://github.com/joaozenaro/jflap-vnc)
 
@@ -63,7 +63,7 @@ cd jflap-vnc/
 
 $\text{<> Code} \rightarrow \text{Codespaces} \rightarrow \text{Create codespace on}<\text{branch}>$
 
-![{12002953-4826-4B9B-AD73-5055246AC4E3}](https://github.com/user-attachments/assets/8fc30d1f-beef-4546-8864-bf42c72e4a52)
+![{09AA50FA-F348-4E6C-A01F-18FCAAB0F49A}](https://github.com/user-attachments/assets/8f3262aa-d82a-49ec-8228-192e8b1e4580)
 
 ## Inicialização
 
@@ -74,6 +74,6 @@ Localmente: `http://localhost:6900/`
 
 Codespaces:
 
-![image](https://github.com/user-attachments/assets/f5df4f77-a8ad-43fe-92c2-030c3f92d348)
+![{986B6713-6991-4E90-BF08-1FDF5C328C0B}](https://github.com/user-attachments/assets/abcb4e43-e638-49fb-9599-e27b82aaabea)
 
 O comando para iniciar o JFLAP é `java -jar JFLAP7.1.jar`.
